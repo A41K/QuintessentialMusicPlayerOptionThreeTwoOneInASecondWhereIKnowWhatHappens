@@ -74,7 +74,7 @@ const musicData = {
             artist: 'Kendrick Lamar',
             cover: 'covers/TPAB.png',
             songs: [
-                { id: 13, title: "Wesley's Theory", url: 'Song/TPAB/Wesley\'s Theory.mp3', genre: 'Hip Hop' },
+                { id: 13, title: "Wesley's Theory", url: 'Song/TPAB/Wesleys Theory.mp3', genre: 'Hip Hop' },
                 { id: 14, title: 'For Free? (Interlude)', url: 'Song/TPAB/For Free (Interlude).mp3', genre: 'Hip Hop' },
                 { id: 15, title: 'King Kunta', url: 'Song/TPAB/King Kunta.mp3', genre: 'Hip Hop' },
                 { id: 16, title: 'Institutionalized', url: 'Song/TPAB/Institutionalized.mp3', genre: 'Hip Hop' },
@@ -87,7 +87,7 @@ const musicData = {
                 { id: 23, title: 'How Much A Dollar Cost', url: 'Song/TPAB/How Much A Dollar Cost.mp3', genre: 'Hip Hop' },
                 { id: 24, title: 'Complexion (A Zulu Love)', url: 'Song/TPAB/Complexion (A Zulu Love).mp3', genre: 'Hip Hop' },
                 { id: 25, title: 'The Blacker The Berry', url: 'Song/TPAB/The Blacker The Berry.mp3', genre: 'Hip Hop' },
-                { id: 26, title: "You Ain't Gotta Lie (Momma Said)", url: 'Song/TPAB/You Ain\'t Gotta Lie (Momma Said).mp3', genre: 'Hip Hop' },
+                { id: 26, title: "You Ain't Gotta Lie (Momma Said)", url: 'Song/TPAB/You Aint Gotta Lie (Momma Said).mp3', genre: 'Hip Hop' },
                 { id: 27, title: 'i', url: 'Song/TPAB/i.mp3', genre: 'Hip Hop' },
                 { id: 28, title: 'Mortal Man', url: 'Song/TPAB/Mortal Man.mp3', genre: 'Hip Hop' }
             ]
